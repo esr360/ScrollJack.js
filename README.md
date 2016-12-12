@@ -19,7 +19,7 @@ Reference the `scrollSpeed()` method and modify the `step` and `speed` parameter
 
 ```javascript
 $(function() {  
-    jQuery.scrollSpeed(120, 400);
+    jQuery.scrollJack(120, 400);
 });
 ```  
 

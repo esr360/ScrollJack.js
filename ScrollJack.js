@@ -2,7 +2,7 @@
 // Forked from: github.com/ByNathan/jQuery.scrollSpeed
 (function($) {
 
-    jQuery.scrollSpeed = function(step, speed) {
+    jQuery.scrollJack = function(step, speed) {
 
         var $document = $(document);
         var $window = $(window);
