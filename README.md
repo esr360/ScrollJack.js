@@ -1,4 +1,4 @@
-> This repo is forked from github.com/ByNathan/jQuery.scrollSpeed
+> This repo is forked from [github.com/ByNathan/jQuery.scrollSpeed](github.com/ByNathan/jQuery.scrollSpeed)
 
 # ScrollJack.js
 
