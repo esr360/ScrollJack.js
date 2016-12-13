@@ -26,7 +26,7 @@ $(function() {
 ## Browser Support
 
 – Google Chrome  
-– Safari ( Desktop )  
-– Internet Explorer ( Disabled for performance )  
+– Safari (Desktop)  
+– Internet Explorer
 – Firefox  
-– Opera ( Not Tested )
+– Opera (Not Tested)
